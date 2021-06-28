@@ -1,0 +1,18 @@
+{
+  "name": "hello-world",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.0",
+    "install": "^0.8.1",
+    "npm": "^3.10.6",
+    "session-file-store": "^0.2.0"
+  }
+}
